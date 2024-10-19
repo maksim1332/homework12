@@ -9,7 +9,7 @@ public class Main {
         Book book1 = new Book("48 Законов власти", author1, 2024);
         Book book2 = new Book("Законы человеческой природы", author2, 2021);
         Book book3 = new Book("Хитрый, как лис, ловкий, как тигр", author3, 2021);
-        //кстати советую прочесть эти книги )
+
         book1.setPublicationYear(2024);
         book2.setPublicationYear(2021);
         book3.setPublicationYear(2021);
