@@ -22,5 +22,6 @@ public class Main {
 
         System.out.println("Book 3");
         System.out.println(book3.getTitle() + " написана в " + book3.getPublicationYear() + "г." + " Автор " + book3.getAuthor().getFirstName() + " " + book3.getAuthor().getLastName());
+
     }
 }
